@@ -2,7 +2,7 @@
   <h1 tabindex="-1" class="heading-element" dir="auto">Hello world, I'm Ximena 
     <animated-image data-catalyst="" style="width: 30px;">
       <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" data-target="animated-image.originalLink">
-        <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+        <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" style="max-width: 15%; display: inline-block;" data-target="animated-image.originalImage">
       </a>
       <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
         <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" target="_blank">
@@ -37,7 +37,10 @@
     </a>
   </h1>
 </div>
-<p dir="auto">I’m currently learning Web Development Technologies in Frontend, Backend and Databases. Originally from Colombia, i now reside in Lyon, France!!</p>
+<p dir="auto">
+  I’m currently learning Web Development Technologies in Frontend, Backend and Databases.<br> 
+  Originally from Colombia, i now reside in Lyon, France!!
+</p>
 <div class="markdown-heading" dir="auto">
   <h2 align="left" tabindex="-1" class="heading-element" dir="auto">My tech stack 👨‍💻</h2>
   <a id="user-content-my-stack-man_technologist" class="anchor" aria-label="Permalink: My stack :man_technologist:" href="#my-stack-man_technologist">
@@ -46,7 +49,7 @@
     </svg>
   </a>
 </div>
-<p align="left" dir="auto">Tools and technologies that i use on a daily basis, or that i've used or worked (either much or a bit) with on the past</p>
+<p align="left" dir="auto">Tools and technologies that i use on a daily basis, or that i've used or worked (either much or a bit) with on the past.</p>
 <p align="left" dir="auto">
   <a href="https://www.w3.org/html/" rel="nofollow">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="max-width: 100%;">
