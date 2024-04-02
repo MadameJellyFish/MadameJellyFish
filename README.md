@@ -6,9 +6,11 @@
   I’m currently learning Web Development Technologies in Frontend, Backend and Databases.<br> 
   Originally from Colombia, i now reside in Lyon, France!!
 </p>
+<br>
 <div class="markdown-heading" dir="auto">
-  <h2 align="left" tabindex="-1" class="heading-element" dir="auto">My tech stack 👨‍💻</h2>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium%20Skin%20Tone.png" alt="Man Technologist Medium Skin Tone" width="35" height="35" />
+  <h2 align="left" tabindex="-1" class="heading-element" dir="auto">My tech stack
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium%20Skin%20Tone.png" alt="Man Technologist Medium Skin Tone" width="35" height="35" />
+  </h2>
 </div>
 <p align="left" dir="auto">Tools and technologies that i use on a daily basis, or that i've used or worked (either much or a bit) with on the past.</p>
 <p align="left" dir="auto">
@@ -40,4 +42,10 @@
     <img src="https://camo.githubusercontent.com/25d07ba4220a3fcadb4af12394d157494ec298dec4ecd86321961427ea18c9e8/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f7673636f64652f7673636f64652d6f726967696e616c2e737667" alt="vscode" width="40" height="40" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="max-width: 100%;">
   </a>
 </p>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
